@@ -1,0 +1,16 @@
+*{
+  font-family: sans-serif;
+}
+.App{
+  text-align: center;
+  font-size: 1em;
+  color: rgb(88, 244, 71);
+}
+.country{
+  border: 2px solid indianred;
+  padding: 12px;
+  border-radius: 10px;
+  margin: 0 140px;
+  margin-bottom: 15px;
+
+}
